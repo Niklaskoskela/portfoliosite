@@ -1,0 +1,19 @@
+
+body {
+  background-image: url("mystery-forest-free-image.jpg");
+  background-color: #cccccc;
+  margin: auto;
+  width: 50%;
+
+}
+header {
+  text-align: center;
+  color: seagreen;
+}
+nav {
+  text-align: center;
+}
+.navbutton {
+  text-align: center;
+  background-color: seagreen
+}
